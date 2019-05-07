@@ -1,0 +1,13 @@
+{
+    "user": {
+        "userId": 4,
+		"firstName": "abc",
+        "lastName": "abc",
+        "Age": 25,
+        "Gender": "abc",
+        "State": "abc",
+        "Email": "abc",
+        "Password": "abc"
+
+    }
+}
